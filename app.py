@@ -24,7 +24,7 @@ CHART_TYPE_MAP = {
     'pie': XL_CHART_TYPE.PIE,
     'bar': XL_CHART_TYPE.COLUMN_CLUSTERED,
     'line': XL_CHART_TYPE.LINE,
-    'scatter': XL_CHART_TYPE.SCATTER,
+    'scatter': XL_CHART_TYPE.XY_SCATTER,
     'area': XL_CHART_TYPE.AREA
 }
 
